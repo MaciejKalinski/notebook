@@ -1,1 +1,1 @@
-To create GitHub files: https://maciejkalinski.github.io/
+To create GitHub Pages: https://maciejkalinski.github.io/
