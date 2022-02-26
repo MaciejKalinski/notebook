@@ -1,2 +1,2 @@
 # notebook
-Notes, scripts
+Notes, scripts 😊
